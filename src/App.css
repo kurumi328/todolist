@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.inputText {
+  text-align: center;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.submitButton {
+  border-radius: 8px;
+  border: none;
+  padding: 4px 16px;
+  margin: 0px 2px;
+}
+
+.submitButton:hover {
+  background-color: #79a8a9;
+  color: #fff;
+  cursor: pointer;
+}
+
+.todoList li {
+  text-align: center;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.todoList li input {
+  padding: 7px;
+}
